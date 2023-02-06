@@ -1,0 +1,3 @@
+In Python you can use the "for" loop to iterate over a sequence of items.
+In Python you can use the "while" loop to repeat a block of code until a certain condition is met.
+In Python you can use the "def" keyword to define a function to reuse a block of code.
